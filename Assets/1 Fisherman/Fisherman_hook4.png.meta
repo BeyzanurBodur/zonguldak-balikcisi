@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 822a6b71e58a1af46bdbf6be5c1934d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5180750266298690146
+    second: Fisherman_hook4_0
+  - first:
+      213: -4095234850171464960
+    second: Fisherman_hook4_1
+  - first:
+      213: 6656969253057612806
+    second: Fisherman_hook4_2
+  - first:
+      213: -4167909708900467529
+    second: Fisherman_hook4_3
+  - first:
+      213: -3313559857643339172
+    second: Fisherman_hook4_4
+  - first:
+      213: -1313202402594968105
+    second: Fisherman_hook4_5
+  - first:
+      213: 7053905505199961127
+    second: Fisherman_hook4_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fisherman_hook4_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2250278, y: 0.003599619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a6ebc1be8b5e740800000000000000
+      internalID: 5180750266298690146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fisherman_hook4_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.22925815, y: -0.0008723876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003dabbe99dca27c0800000000000000
+      internalID: -4095234850171464960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fisherman_hook4_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.23126504, y: 0.0035585223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcf519c33c9826c0800000000000000
+      internalID: -4167909708900467529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fisherman_hook4_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3181081, y: 0.0042422973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52cc2f8dded302d0800000000000000
+      internalID: -3313559857643339172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fisherman_hook4_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.42195725, y: 0.002190982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd232b5f5196cde0800000000000000
+      internalID: -1313202402594968105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fisherman_hook4_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 19
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4546525, y: 0.0036478573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724bd9c0fa184e160800000000000000
+      internalID: 7053905505199961127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3ce7e9afb4853e4db34280840c19403
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fisherman_hook4_0: 5180750266298690146
+      Fisherman_hook4_1: -4095234850171464960
+      Fisherman_hook4_2: 6656969253057612806
+      Fisherman_hook4_3: -4167909708900467529
+      Fisherman_hook4_4: -3313559857643339172
+      Fisherman_hook4_5: -1313202402594968105
+      Fisherman_hook4_6: 7053905505199961127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

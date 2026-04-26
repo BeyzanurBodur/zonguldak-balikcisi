@@ -1,0 +1,10 @@
+{
+    "name": "Beyzanurbodur201.Zongi.Editor",
+    "references": [
+      "Beyzanurbodur201.Zongi"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

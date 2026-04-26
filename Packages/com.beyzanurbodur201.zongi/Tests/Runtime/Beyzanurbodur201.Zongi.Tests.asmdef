@@ -1,0 +1,11 @@
+{
+    "name": "Beyzanurbodur201.Zongi.Tests",
+    "references": [
+        "Beyzanurbodur201.Zongi"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

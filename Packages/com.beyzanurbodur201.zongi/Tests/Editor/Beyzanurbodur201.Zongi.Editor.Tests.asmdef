@@ -1,0 +1,14 @@
+{
+    "name": "Beyzanurbodur201.Zongi.Editor.Tests",
+    "references": [
+        "Beyzanurbodur201.Zongi.Editor",
+        "Beyzanurbodur201.Zongi"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
